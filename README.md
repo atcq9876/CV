@@ -4,7 +4,7 @@
 
 ## About me
 
-2023 Makers bootcamp graduate with experience in building full-stack web and mobile apps using a variety of technologies including React, JavaScript and Ruby. An effective team worker with a high EQ and the ability to learn quickly and independently.
+2023 Makers bootcamp graduate with experience in building full-stack web and mobile apps using a variety of technologies including React, JavaScript and Ruby. An effective team worker with a high EQ, excellent problem-solving skills, and the ability to learn quickly and independently.
 
 I have a strong educational background, holding a bachelor’s in business (first) and a master’s in Chinese studies (distinction). In addition to these, I was awarded two government scholarships to study Mandarin to an advanced level in Taiwan. I’ve also worked in a number of charity sector roles, experiences that allowed me to hone my communication and teamwork skills which have served me well throughout my coding journey. In my spare time, I enjoy making music which requires a lot of innovative thinking in order to produce unique and noteworthy songs. This flair for creativity has come in handy throughout the development process, such as when solving problems and coming up with app ideas.
 
