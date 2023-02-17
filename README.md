@@ -36,7 +36,7 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 ## Skills
 
 #### Full-stack development
-Proficient in building web and mobile applications using a variety of technologies including the MERN stack, React Native, JavaScript, Ruby and PostgreSQL.
+Proficient in building web and mobile applications using a variety of technologies including the MERN stack, React Native, JavaScript, Ruby, Sinatra and PostgreSQL.
 
 #### Test-driven development (TDD)
 Test-driven a variety of projects. Familiar with Jest, Cypress and RSpec.
