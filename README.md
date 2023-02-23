@@ -41,7 +41,7 @@ Proficient in building web and mobile applications using a variety of technologi
 #### Test-driven development (TDD)
 Test-driven a variety of projects. Familiar with Jest, Cypress and RSpec.
 
-#### Agile development
+#### Agile methodologies
 Performed well in an Agile development environment for all Makers group projects.
 
 #### Teamwork
