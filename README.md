@@ -24,7 +24,7 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 
 ## Coding education
 
-#### Makers software development bootcamp (Oct 2022 to Feb 2023)
+#### Makers software engineering bootcamp (Oct 2022 to Feb 2023)
 - Built full-stack web applications both individually and in teams using a variety of tech, including: JavaScript,  MERN, Ruby, Sinatra, PostgreSQL, HTML and CSS
 - Created a mobile app with MERN + React Native
 - Carried out TDD using Jest, Cypress and RSpec
