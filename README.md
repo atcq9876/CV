@@ -36,10 +36,10 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 ## Skills
 
 #### Full-stack development
-Proficient in building web and mobile applications using a variety of technologies including the MERN stack, React Native, JavaScript, Ruby, Sinatra and PostgreSQL.
+Proficient in building web and mobile applications using a variety of technologies including the MERN stack, React Native, JavaScript, Ruby, Sinatra and PostgreSQL. See my [projects table](https://github.com/atcq9876/CV/blob/main/README.md#projects) for examples.
 
 #### Test-driven development (TDD)
-Test-driven a variety of projects. Comfortable using Jest, Cypress and RSpec.
+Test-driven a variety of projects. Comfortable using Jest, Cypress and RSpec. See my [bank tech test](https://github.com/atcq9876/bank-tech-test) for evidence of excellent TDD skills.
 
 #### Agile methodologies
 Performed well in an Agile development environment for all Makers group projects, including leading sprint kickoffs, standups and retros.
