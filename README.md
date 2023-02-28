@@ -96,8 +96,8 @@ _Corporate Campaigns Coordinator_
 Duties included:
 - Coordinating campaigns urging food-related companies to adopt higher animal welfare standards.
 - Launching and managing an online volunteer network. This included mobilising volunteers to support campaigns through actions such as emailing company executives, phoning businesses and posting on social media.
+- Making no-code Grav webpages for campaigns such as [this one](https://mcchickencruelty.co.uk/).
 - Writing creative emails to volunteers as well as composing blogs and op-ed articles to both increase volunteer engagement and gain public support for campaigns. Emails were set up and formatted using Salesforce's Pardot system.
-- Making Grav webpages for campaigns using template designs.
 
 Achievements included:
 - Within our international team of 8 campaigners, I consistently achieved the highest open rates for emails to our volunteer networks, displaying my ability to write original and engaging content.
