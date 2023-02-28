@@ -14,8 +14,8 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 
 | Name                         | Description                | Tech              |
 | ---------------------------- | -------------------------- | ----------------- |
-| [**Get Home Safe**](https://github.com/jillwones/GetHomeSafe) | A mobile app to help people walk home alone safely | React Native, MERN stack, JavaScript, Jest, Google Maps API |
-| [**Acebook**](https://github.com/jillwones/acebook-mern) | A Facebook clone web app | MERN stack, JavaScript, HTML, CSS, Jest, Cypress |
+| [**Get Home Safe**](https://github.com/atcq9876/get-home-safe) | A mobile app to help people walk home alone safely | React Native, MERN stack, JavaScript, Jest, Google Maps API |
+| [**Acebook**](https://github.com/atcq9876/acebook) | A Facebook clone web app | MERN stack, JavaScript, HTML, CSS, Jest, Cypress |
 | [**Bank Tech Test**](https://github.com/atcq9876/bank-tech-test) | A tech test demonstrating TDD and OOP skills | JavaScript, Jest |
 | [**News Headlines**](https://github.com/atcq9876/news-headlines) | A web app displaying the latest headlines from the Guardian | JavaScript, HTML, CSS, Jest, MVC, Guardian API |
 | [**MakersBnB**](https://github.com/atcq9876/chitter) | An Airbnb clone web app | Ruby, ERB, HTML, CSS, Sinatra, PostgreSQL, RSpec  |
