@@ -10,6 +10,7 @@ I have a strong educational background, holding a bachelor’s in business (firs
 
 Having greatly enjoyed learning spoken languages, last year I decided to give programming languages a try. I was hooked from the first day and before long I was accepted onto the Makers bootcamp. Now that I’ve graduated, I can’t wait to make full use of the diverse array of skills I’ve acquired over the years in my first role as a junior developer!
 
+
 ## Projects
 
 | Name                         | Description                | Tech              |
@@ -28,10 +29,11 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 - Built full-stack web applications both individually and in teams using a variety of tech, including: JavaScript,  MERN, Ruby, Sinatra, PostgreSQL, HTML and CSS
 - Created a mobile app with MERN + React Native
 - Carried out TDD using Jest, Cypress and RSpec
-- Practiced a variety of programming approaches and patterns such as OOP, functional-programming and MVC
+- Practised a variety of programming approaches and patterns such as OOP, functional-programming and MVC
 - Followed agile development practices
 - Frequently collaborated with others through group projects and pair programming
 - Learned to teach myself how to develop software
+- Participated in emotional intelligence workshops (covering a range of topics including communication, teamwork, empathy and feedback)
 
 #### Learn Ruby Course | Codecademy | Sep 2022
 - Learned the fundamentals of Ruby
@@ -62,10 +64,11 @@ Effective team worker with a high EQ and strong interpersonal skills. Able to wo
 Strong written and verbal communication skills, demonstrated by achieving high grades for written assignments and presentations throughout my education, as well as frequently and effectively communicating with a large variety of stakeholders in previous jobs, including board members, senior managers, clients and volunteers.
 
 #### Project management
-Coordinated a number of successful projects during my time as a Corporate Campaigns Coordinator at Animal Equality, from creating a digital volunteer network and growing it to approximately 5000 members, to launching campaigns related to a number of companies, the latter involving setting up webpages, drafting campaign materials, arranging demonstrations, composing articles and writing creative campaign emails. Achievements include convincing Pizza Express to commit to improving its chicken welfare standards.
+Coordinated a number of successful projects during my time as a Corporate Campaigns Coordinator at Animal Equality, from creating a digital volunteer network and growing it to approximately 5000 members, to launching campaigns related to a number of companies, the latter involving setting up no-code webpages, drafting campaign materials, arranging demonstrations, composing articles and writing creative campaign emails. Achievements include convincing Pizza Express to commit to improving its chicken welfare standards.
 
 #### Independent learning and adaptability
 Capable of learning quickly and independently, and adapting to new information, technologies and programming approaches. Displayed both through the projects I have completed at Makers and by the consistently high grades I have achieved in a variety of other subjects (including languages, culture, politics, business, economics and maths).
+
 
 ## Other education
 
