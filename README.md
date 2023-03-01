@@ -24,7 +24,7 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 
 ## Coding education
 
-#### Software engineering bootcamp | Makers (Oct 2022 to Feb 2023)
+#### Software Engineering Bootcamp | Makers | Oct 2022 to Feb 2023
 - Built full-stack web applications both individually and in teams using a variety of tech, including: JavaScript,  MERN, Ruby, Sinatra, PostgreSQL, HTML and CSS
 - Created a mobile app with MERN + React Native
 - Carried out TDD using Jest, Cypress and RSpec
@@ -33,13 +33,13 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 - Frequently collaborated with others through group projects and pair programming
 - Learned to teach myself how to develop software
 
-#### Learn Ruby Course | Codecademy (Sep 2022)
+#### Learn Ruby Course | Codecademy | Sep 2022
 - Learned the fundamentals of Ruby
 
-#### Web Development Fundamentals Course | The Odin Project (Aug 2022 to Sep 2022)
+#### Web Development Fundamentals Course | The Odin Project | Aug 2022 to Sep 2022
 - Studied the foundations of  JavaScript, HTML and CSS
 
-#### CS50: Introduction to Computer Science Course | Harvard University (Online) (Jul 2022 to Sep 2022)
+#### CS50: Introduction to Computer Science Course | Harvard University (Online) | Jul 2022 to Sep 2022
 - Learned about a variety of computer science concepts, such as searching and sorting algorithms, recursion, pointers and dynamic memory allocation
 - Achieved by completing a range of coding challenges in C
 
@@ -69,34 +69,24 @@ Capable of learning quickly and independently, and adapting to new information, 
 
 ## Other education
 
-#### National Dong Hwa University (Taiwan) (Sep 2021 to Jun 2022)
-
-- Advanced Mandarin course (A)
+#### Advanced Mandarin course (A) | National Dong Hwa University (Taiwan) | Sep 2021 to Jun 2022
 - Recipient of the Taiwan Ministry of Foreign Affairs' Taiwan-Europe Connectivity Scholarship
 - Active member of the university's hip hop society
 
-#### SOAS, University of London (Sep 2020 to Sep 2021)
+#### MA Chinese Studies (Distinction) | SOAS, University of London | Sep 2020 to Sep 2021
+- Achieved distinction grades for essays and presentations in a wide range of modules, including Mandarin, politics, history and culture
 
-- MA Chinese Studies (distinction)
-- Modules were related to Mandarin, politics, history, culture and film
-
-#### National Taiwan Univerity (Taiwan) (Sep 2018 to Feb 2019)
-
-- Intermediate Mandarin course (A+)
+#### Intermediate Mandarin course (A+) | National Taiwan Univerity (Taiwan) | Sep 2018 to Feb 2019
 - Recipient of the Taiwan Ministry of Education's Huayu Enrichment Scholarship
 
-#### St George International London (Sep 2017 to Dec 2017)
+#### CertTESOL (B+) | St George International London | Sep 2017 to Dec 2017
+- Trinity College London CertTESOL Certificate in Teaching English
 
-- Trinity College London CertTESOL Certificate in Teaching English (B+) 
-
-#### King's College London (Sep 2013 to Aug 2016)
-
-- BSc Business Management (first-class honours)
+#### BSc Business Management (First Class Honours) | King's College London | Sep 2013 to Aug 2016
 - President of the university's animal welfare society
 
-#### Aylesbury Grammar School (Sep 2005 to Jul 2012)
-
-- A-Levels in Maths (A*), Business Studies (A*), Economics (A)
+#### A-Levels (Maths A*, Business A*, Economics A) | Aylesbury Grammar School | Sep 2005 to Jul 2012
+- Received an award for outstanding A-Level results
 
 
 ## Work Experience
