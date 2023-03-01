@@ -24,7 +24,7 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 
 ## Coding education
 
-#### Makers software engineering bootcamp (Oct 2022 to Feb 2023)
+#### Software engineering bootcamp | Makers (Oct 2022 to Feb 2023)
 - Built full-stack web applications both individually and in teams using a variety of tech, including: JavaScript,  MERN, Ruby, Sinatra, PostgreSQL, HTML and CSS
 - Created a mobile app with MERN + React Native
 - Carried out TDD using Jest, Cypress and RSpec
@@ -32,6 +32,17 @@ Having greatly enjoyed learning spoken languages, last year I decided to give pr
 - Followed agile development practices
 - Frequently collaborated with others through group projects and pair programming
 - Learned to teach myself how to develop software
+
+#### Learn Ruby Course | Codecademy (Sep 2022)
+- Learned the fundamentals of Ruby
+
+#### Web Development Fundamentals Course | The Odin Project (Aug 2022 to Sep 2022)
+- Studied the foundations of  JavaScript, HTML and CSS
+
+#### CS50: Introduction to Computer Science Course | Harvard University (Online) (Jul 2022 to Sep 2022)
+- Learned about a variety of computer science concepts, such as searching and sorting algorithms, recursion, pointers and dynamic memory allocation
+- Achieved by completing a range of coding challenges in C
+
 
 ## Skills
 
