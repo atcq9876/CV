@@ -94,8 +94,7 @@ Capable of learning quickly and independently, and adapting to new information, 
 
 ## Work Experience
 
-#### Animal Equality UK (Jul 2019 to Oct 2020)  
-_Corporate Campaigns Coordinator_
+#### Corporate Campaigns Coordinator | Animal Equality UK | Jul 2019 to Oct 2020
 
 Duties included:
 - Coordinating campaigns urging food-related companies to adopt higher animal welfare standards.
@@ -109,8 +108,7 @@ Achievements included:
 - Successful campaign outcomes included mobilising online volunteers to persuade Pizza Express to commit to improving their chicken welfare standards.
 
 
-#### St Mungo's Community Housing Association (Oct 2016 to Jun 2018)  
-_Leadership Team Administrator_
+#### Leadership Team Administrator | St Mungo's Community Housing Association | Oct 2016 to Jun 2018
 
 Duties included:
 - Coordinating several board sub-committees. This included arranging committee meetings and taking minutes at these.
@@ -122,11 +120,10 @@ Achievements included:
 - All duties were carried out to a very high standard, allowing me to build a reputation as a hardworking and capable member of staff among executive directors, teammates, and colleagues throughout the organisation.
 
 
-#### British Red Cross (Jun 2015 to Aug 2015)  
-_Work Experience Coordinator Intern_
+#### Work Experience Coordinator Intern | British Red Cross | Jun 2015 to Aug 2015
 
 Duties:
-- Managing the work experience programme for people aged 15-18.
+- Managing the organisation's work experience programme.
 
 Achievements:
 - Due to efficiently running the programme, I took on an additional project of organising and hosting an intern showcase event. I also arranged 10 work placements, surpassing the previous intern's 6.
