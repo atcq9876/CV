@@ -58,7 +58,7 @@ Test-driven a variety of projects. Comfortable using Jest, Cypress and RSpec. Se
 Performed well in an Agile development environment for all Makers group projects, including leading sprint kickoffs, standups and retros.
 
 #### Teamwork
-Effective team worker with a high EQ and strong interpersonal skills. Able to work well with others and contribute to a positive team dynamic. Completed all three group projects to a high standard during the Makers bootcamp, as well as doing pair programming throughout the course.
+Effective team worker with a high EQ and strong interpersonal skills. Able to work well with others and contribute to a positive team dynamic. Completed all three group projects to a high standard during the Makers bootcamp, as well as doing pair programming throughout the course. My experience as a campaigns coordinator involved frequent collaboration with other departments, such as with the software development, graphic design and comms teams in order to effectively prepare for campaign actions and events.
 
 #### Communication
 Strong written and verbal communication skills, demonstrated by achieving high grades for written assignments and presentations throughout my education, as well as frequently and effectively communicating with a large variety of stakeholders in previous jobs, including board members, senior managers, clients and volunteers.
