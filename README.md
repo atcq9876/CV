@@ -1,5 +1,5 @@
 <h1 align="center">
-  Andy Scott-Lewis - Junior Developer
+  Andy Scott-Lewis - Software Engineer
 </h1>
 
 ## About me
@@ -8,7 +8,7 @@
 
 I have a strong educational background, holding a bachelor’s in business (first) and a master’s in Chinese studies (distinction). In addition to these, I was awarded two government scholarships to study Mandarin to an advanced level in Taiwan. I’ve also worked in a number of charity sector roles, experiences that allowed me to hone my communication, teamwork and project management skills which have served me well throughout my coding journey. In my spare time, I enjoy making music which requires innovative thinking to produce unique and noteworthy songs. This flair for creativity has proven useful throughout the development process, such as when solving problems and coming up with ideas for apps.
 
-Having greatly enjoyed learning spoken languages, last year I decided to give programming languages a try. I was hooked from the first day and before long I was accepted onto the Makers bootcamp. Now that I’ve graduated, I can’t wait to make full use of the diverse array of skills I’ve acquired over the years in my first role as a junior developer!
+Having greatly enjoyed learning spoken languages, last year I decided to give programming languages a try. I was hooked from the first day and before long I was accepted onto the Makers bootcamp. Now that I’ve graduated, I can’t wait to make full use of the diverse array of skills I’ve acquired over the years in my first role as a software engineer!
 
 
 ## Projects
